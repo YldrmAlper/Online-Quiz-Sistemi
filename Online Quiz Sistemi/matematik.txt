@@ -1,0 +1,79 @@
+12 + 18 kactir?
+a)25
+b)30
+c)28
+d)22
+e)40
+b
+
+(5 * 3) / 2 kactir?
+a)5
+b)7.5
+c)6
+d)8
+e)10
+b
+
+9!/8! kactir?
+a)9
+b)7
+c)8
+d)5
+e)12
+a
+
+16 / 4 kactir?
+a)2
+b)3
+c)4
+d)5
+e)6
+c
+
+15 * 2 kactir?
+a) 25
+b) 28
+c) 30
+d) 35
+e) 40
+c
+
+72 - 36 kactir?
+a)34
+b)40
+c)28
+d)36
+e)46
+d
+
+15 mod 7 kactir?
+a)1
+b)2
+c)3
+d)4
+e)0
+a
+
+Bir dik ucgenin alani nasil hesaplanir?
+a)a*b/2
+b)a / b
+c)a - b
+d)a+b
+e)a*b
+a
+
+4! kactir?
+a)6
+b)12
+c)24
+d)120
+e)48
+c
+
+45 / 9 kactir?
+a)3
+b)4
+c)5
+d)6
+e)7
+c

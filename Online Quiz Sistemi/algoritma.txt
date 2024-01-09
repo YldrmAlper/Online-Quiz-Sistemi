@@ -1,0 +1,79 @@
+"int" veri tipininin boyutu kac bayttir?
+a)1B
+b)2B
+c)3B
+d)4B
+e)5B
+b
+
+Bir dizi icindeki en buyuk sayiyi bulan bir programda kullanilan kontrol yapisi nedir?
+a)if-else
+b)for
+c)switch-case
+d)while
+e)do-while
+b
+
+"int" veri tipi ne tur bir deger saklar?
+a)Tam sayi
+b)Ondalik sayi
+c)Karakter
+d)Mantiksal
+e)String
+a
+
+Bir donguden cikmak icin kullanilan komut nedir?
+a)break
+b)continue
+c)return
+d)exit
+e)stop
+a
+
+Bir fonksiyonun geri donus degeri olmayacaksa kullanilan veri tipi nedir?
+a)void
+b)int
+c)char
+d)double
+e)none
+a
+
+Bir programin kodunu daha duzenli ve okunabilir hale getirmek icin hangi islem sikca kullanilir?
+a)Kodu silmek
+b)Yorum satirlari eklemek
+c)Hata ayiklama yapmak
+d)Degisken isimlerini karistirmak
+e)Uyku moduna gecmek
+b
+
+C dilinde bir stringin uzunlugunu bulan fonksiyon hangisidir?
+a)do-while
+b)if-else
+c)sizeof
+d)printf
+e)scanf
+c
+
+Bir programin calisma zamanini olcmek icin kullanilan terim nedir?
+a)Delay
+b)Runtime
+c)Compile time
+d)Execution
+e)Stopwatch
+b
+
+Bir dizinin ilk elemanina erismek icin kullanilan indeks nedir?
+a)0
+b)1
+c)-1
+d)10
+e)42
+a
+
+"==", "!=", ve "<=" gibi ifadelerin kullanildigi kontrol yapisi nedir?
+a)switch-case
+b)for dongusu
+c)if-else
+d)while dongusu
+e)do-while dongusu
+c

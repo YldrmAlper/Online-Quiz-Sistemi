@@ -1,0 +1,79 @@
+Newton'un birinci hareket yasasi nedir?
+a)Hareketsiz cisim kendi hizinda kalir.
+b)Bir cisim uzerine net bir kuvvet etki etmedikce, cisim duracaktir.
+c)Eylemsizlik prensibi gecerlidir.
+d)Her eylem, esit ve zit bir tepki dogurur.
+e)Hareket halindeki bir cismin hizi degismez.
+b
+
+Hiz ve zamanin carpimiyla bulunan buyukluk nedir?
+a)Enerji
+b)Kuvvet
+c)Mesafe
+d)Ivme
+e)Moment
+c
+
+Isik hizi nedir?
+a)123,543 km/s
+b)162,432 km/s
+c)200,000 km/s
+d)254,250 km/s
+e)299,792 km/s
+e
+
+Bir cismin hareketini surdurebilmesi icin neye ihtiyaci vardir?
+a)Enerji
+b)Kuvvet
+c)Momentum
+d)Ivme
+e)Surtunme
+a
+
+Kutle ve hizin carpimiyla bulunan buyukluk nedir?
+a)Ivme
+b)Kinetik enerji
+c)Momentum
+d)Potansiyel enerji
+e)Moment
+c
+
+E=mc^2 denkleminin baglami nedir?
+a)Elektrik enerjisi
+b)Kutle ve enerjinin iliskisi
+c)Enerji ve momentumun iliskisi
+d)Hiz ve Ivme
+e)Kutle ve moment
+b
+
+Bir cismin ivmesini degistiren etkene ne denir?
+a)Kinetik enerji
+b)Hareket
+c)Kuvvet
+d)Momentum
+e)Ivme
+c
+
+Elektrik yukunu tasiyan temel parcacik nedir?
+a)Proton
+b)Notron
+c)Elektron
+d)Foton
+e)Quark
+c
+
+Basinc birimi nedir?
+a)Pascal (Pa)
+b)Newton (N)
+c)Kilogram (kg)
+d)Joule (J)
+e)Watt (W)
+a
+
+Bir malzemenin birim hacmindeki degismeye ne denir?
+a)Yogunluk
+b)Esneklik
+c)Sikisma
+d)Genlesme
+e)Yukseklik
+d
